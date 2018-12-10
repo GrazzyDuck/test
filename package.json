@@ -1,0 +1,14 @@
+{
+  "name": "tdpdiscordbot",
+  "version": "1.0.0",
+  "description": "bot van TDP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grazzy_Duck",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
